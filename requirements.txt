@@ -3,4 +3,3 @@ joblib
 pandas
 numpy
 scikit-learn
-python==3.1.1
